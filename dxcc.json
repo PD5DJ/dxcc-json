@@ -4397,8 +4397,8 @@
       "name": "Palestine",
       "notes": "Contacts made July 1, 1968, and after, count as Israel (4X,4Z).",
       "outgoingQslService": false,
-      "prefix": "ZC6,4X1",
-      "prefixRegex": "^(ZC6|4X1)[A-Z0-9/]*$",
+      "prefix": "ZC6",
+      "prefixRegex": "^ZC6[A-Z0-9/]*$",
       "thirdPartyTraffic": false,
       "validEnd": "1968-06-30",
       "validStart": ""
